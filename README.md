@@ -1,2 +1,2 @@
-# how-to-website
+# WebDevQuickstart
 Website teaching basics of web development
